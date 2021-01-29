@@ -34,9 +34,6 @@ function winCheck(a, b, c) {
   else if (a === "o" && b === "o" && c === "o") {
     $("p").text("something here as well");  
   }
-  else {
-    $("p").append("easy to say nobody won yet");
-  }
 }
 
 
